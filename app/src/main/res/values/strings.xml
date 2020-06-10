@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TaskList</string>
+
+    <string name="type_title">分類</string>
+    <string name="spand_time_title">預計時間</string>
+    <string name="end_time_title">結束</string>
+    <string name="start_time_title">開始</string>
+    <string name="task_title">Task內容</string>
+    <string name="button_confirm">確定</string>
+
+</resources>
